@@ -1,14 +1,14 @@
 **个人信息**
 <table border="0" height="500px">
   <tr>
-    <td width="75%" >
-      <p><b><h3>李秦</h3><b><p>
+    <td width="65%" >
+      <h3>李秦</h3>
       <p><b>本科生</b></p>
       <p><b>石家庄铁道大学信息科学与技术学院</b></p>
       <p><b>QQ：3469838532</b></p>
       <p><b>邮箱：3469838532@qq.com</b></p>
     </td>
-    <td width="25%" >
+    <td width="35%" >
       <img src="./liqin.jpg" width="100%" >     
     </td>
   </tr>
