@@ -8,8 +8,8 @@
       <p><b>QQ：3469838532</b></p>
       <p><b>邮箱：3469838532@qq.com</b></p>
     </td>
-    <td width="25%">
-      <img src="./liqin.jpg" width="100%">     
+    <td width="25%" >
+      <img src="./liqin.jpg" width="100%" height="100%" >     
     </td>
   </tr>
 </table>
