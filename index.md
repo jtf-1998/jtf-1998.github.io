@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+
 <html>
 <head>
 <title>李秦の网站</title>
